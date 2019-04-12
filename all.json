@@ -349,4 +349,54 @@
                 }
             ]
     },
+    {
+        "name": "HTTP status codes",
+        "questions": [
+                {
+                    "clue": "202",
+                    "answer": "Accepted"
+                },
+                {
+                    "clue": "408",
+                    "answer": "Request timeout"
+                },
+                {
+                    "clue": "418",
+                    "answer": "I'm a teapot"
+                },
+                {
+                    "clue": "508",
+                    "answer": "Loop detected"
+                },
+                {
+                    "clue": "102",
+                    "answer": "Processing"
+                }
+            ]
+    },
+    {
+        "name": "HTTP status codes",
+        "questions": [
+                {
+                    "clue": "",
+                    "answer": ""
+                },
+                {
+                    "clue": "",
+                    "answer": ""
+                },
+                {
+                    "clue": "",
+                    "answer": ""
+                },
+                {
+                    "clue": "",
+                    "answer": ""
+                },
+                {
+                    "clue": "",
+                    "answer": ""
+                }
+            ]
+    },
 ]
