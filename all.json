@@ -299,4 +299,29 @@
                 }
             ]
     },
+    {
+        "name": "Efekty hardware'owe",
+        "questions": [
+                {
+                    "clue": "Utrzymywanie danych w pamięci podręcznej",
+                    "answer": "RAM refresh"
+                },
+                {
+                    "clue": "Occurs when you try to read N bytes of data starting from an address that is not evenly divisible by N (i.e. addr % N != 0).",
+                    "answer": "Unaligned memory access"
+                },
+                {
+                    "clue": "Problems with the instruction pipeline in CPU microarchitectures when the next instruction cannot execute in the following clock cycle, and can potentially lead to incorrect computation results",
+                    "answer": "Hazard"
+                },
+                {
+                    "clue": "For each processor core that is physically present, the operating system addresses two virtual (logical) cores and shares the workload between them when possible.",
+                    "answer": "Hyperthreading"
+                },
+                {
+                    "clue": "Digital circuit that tries to guess which way a branch (e.g. an if–then–else structure) will go before this is known definitively",
+                    "answer": "Branch predictor"
+                }
+            ]
+    },
 ]
