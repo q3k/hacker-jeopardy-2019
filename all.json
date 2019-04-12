@@ -249,4 +249,29 @@
                 }
             ]
     },
+    {
+        "name": "Instrukcje procesorów",
+        "questions": [
+                {
+                    "clue": "aesenc",
+                    "answer": "Szyfrowanie aes"
+                },
+                {
+                    "clue": "sets",
+                    "answer": "Sets if negative"
+                },
+                {
+                    "clue": "VMWRITE",
+                    "answer": "Write Field to Virtual-Machine Control Structure"
+                },
+                {
+                    "clue": "CVTDQ2PD",
+                    "answer": "Convert Packed Doubleword Integers to Packed Double-Precision Floating-Point Values"
+                },
+                {
+                    "clue": "inc inc dec dec shl shr shl shr ebx eax",
+                    "answer": "Konami Code"
+                }
+            ]
+    },
 ]
