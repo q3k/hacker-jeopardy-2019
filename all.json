@@ -324,4 +324,29 @@
                 }
             ]
     },
+    {
+        "name": "GNU coreutils",
+        "questions": [
+                {
+                    "clue": "Alternatywny linker w GNU Binutils",
+                    "answer": "gold"
+                },
+                {
+                    "clue": "Konfiguracja kolorów dla `ls`",
+                    "answer": "dircolors"
+                },
+                {
+                    "clue": "Zawija tekst na wejściu do określonej szerokości",
+                    "answer": "fold"
+                },
+                {
+                    "clue": "Rozbija liczbę na czynniki pierwsze",
+                    "answer": "factor"
+                },
+                {
+                    "clue": "Losowo zmienia kolejność tekstu na wejściu",
+                    "answer": "shuf"
+                }
+            ]
+    },
 ]
