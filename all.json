@@ -199,4 +199,29 @@
                 }
             ]
     },
+    {
+        "name": "Kontrola wersji",
+        "questions": [
+                {
+                    "clue": "<img src=\"https://s3.eu-west-2.amazonaws.com/jeopardy-cebula/images.jpeg\">",
+                    "answer": "Subversion"
+                },
+                {
+                    "clue": "<img src=\"https://s3.eu-west-2.amazonaws.com/jeopardy-cebula/index.png\">",
+                    "answer": "Mercurial"
+                },
+                {
+                    "clue": "<img src=\"https://s3.eu-west-2.amazonaws.com/jeopardy-cebula/veracity-scm.jpeg\">",
+                    "answer": "Veracity"
+                },
+                {
+                    "clue": "<img src=\"https://s3.eu-west-2.amazonaws.com/jeopardy-cebula/1200px-Bazaar_logo_(software_product).svg.png\">",
+                    "answer": "GNU Bazaar"
+                },
+                {
+                    "clue": "<img src=\"https://s3.eu-west-2.amazonaws.com/jeopardy-cebula/Screenshot_20190412_124756.png\">",
+                    "answer": "CVS"
+                }
+            ]
+    },
 ]
