@@ -375,28 +375,28 @@
             ]
     },
     {
-        "name": "HTTP status codes",
+        "name": "Who's that Pokémon?!",
         "questions": [
                 {
-                    "clue": "",
-                    "answer": ""
+                    "clue": "Sudowoodo",
+                    "answer": "https://s3.eu-west-2.amazonaws.com/jeopardy-cebula/185Sudowoodo.png"
                 },
                 {
-                    "clue": "",
-                    "answer": ""
+                    "clue": "Celebi",
+                    "answer": "https://s3.eu-west-2.amazonaws.com/jeopardy-cebula/251Celebi.png"
                 },
                 {
-                    "clue": "",
-                    "answer": ""
+                    "clue": "Litten",
+                    "answer": "https://s3.eu-west-2.amazonaws.com/jeopardy-cebula/725Litten.png"
                 },
                 {
-                    "clue": "",
-                    "answer": ""
+                    "clue": "Metagross",
+                    "answer": "https://s3.eu-west-2.amazonaws.com/jeopardy-cebula/376Metagross.png"
                 },
                 {
-                    "clue": "",
-                    "answer": ""
+                    "clue": "Sygiliph",
+                    "answer": "https://s3.eu-west-2.amazonaws.com/jeopardy-cebula/561Sigilyph.png"
                 }
             ]
-    },
+    }
 ]
