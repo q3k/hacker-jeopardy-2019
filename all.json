@@ -148,5 +148,55 @@
                     "answer": "Równania Maxwella"
                 }
             ]
-}
+    },
+    {
+        "name": "Języki wymarłe i enigmatyczne",
+        "questions": [
+                {
+                    "clue": "<img src=\"https://s3.eu-west-2.amazonaws.com/jeopardy-cebula/Screenshot_20190412_121320.png\">",
+                    "answer": "ArnoldC"
+                },
+                {
+                    "clue": "<img src=\"https://s3.eu-west-2.amazonaws.com/jeopardy-cebula/Screenshot_20190412_115739.png\">",
+                    "answer": "Pikalang"
+                },
+                {
+                    "clue": "<img src=\"https://s3.eu-west-2.amazonaws.com/jeopardy-cebula/Screenshot_20190412_121921.png\">",
+                    "answer": "Ruby (x-D)"
+                },
+                {
+                    "clue": "<img src=\"https://s3.eu-west-2.amazonaws.com/jeopardy-cebula/COBOL 1.10.png\">",
+                    "answer": "COBOL"
+                },
+                {
+                    "clue": "<img src=\"https://s3.eu-west-2.amazonaws.com/jeopardy-cebula/picture-35.png\">",
+                    "answer": "ActionScript 3"
+                }
+            ]
+    },
+    {
+        "name": "Filmy",
+        "questions": [
+                {
+                    "clue": "<img src=\"https://s3.eu-west-2.amazonaws.com/jeopardy-cebula/Screenshot_20190412_123322.png\">",
+                    "answer": "Hackers (Hakerzy)"
+                },
+                {
+                    "clue": "<img src=\"https://s3.eu-west-2.amazonaws.com/jeopardy-cebula/Screenshot_20190412_123257.png\">",
+                    "answer": "Haker"
+                },
+                {
+                    "clue": "<img src=\"https://s3.eu-west-2.amazonaws.com/jeopardy-cebula/Screenshot_20190412_123551.png\">",
+                    "answer": "Blade Runner"
+                },
+                {
+                    "clue": "<img src=\"https://s3.eu-west-2.amazonaws.com/jeopardy-cebula/Screenshot_20190412_123512.png\">",
+                    "answer": "The Girl With Dragon Tattoo (Dziewczyna z tatuażem)"
+                },
+                {
+                    "clue": "<img src=\"https://s3.eu-west-2.amazonaws.com/jeopardy-cebula/Screenshot_20190412_123536.png\">",
+                    "answer": "Her"
+                }
+            ]
+    },
 ]
