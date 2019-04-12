@@ -224,4 +224,29 @@
                 }
             ]
     },
+    {
+        "name": "WTF Python (3)?!",
+        "questions": [
+                {
+                    "clue": "<pre>\n>>> a = [0, 1]\n>>> a[0] = a\n>>> a</pre>",
+                    "answer": "<pre>[[...], 1]</pre>"
+                },
+                {
+                    "clue": "<pre>import this</pre>>",
+                    "answer": "The Zen of Python"
+                },
+                {
+                    "clue": "<pre>>>>x, y = (0, 1) if True else None, None</pre>",
+                    "answer": "<pre>>>>((0, 1), None)</pre>"
+                },
+                {
+                    "clue": "<pre>\n>>> not x == y\nTrue\n>>> x == not y",
+                    "answer": "Syntax error"
+                },
+                {
+                    "clue": "<pre>\n>>> 'a' * 19 is 'aaaaaaaaaaaaaaaaaaa'\nTrue\n>>> 'a' * 20 is 'aaaaaaaaaaaaaaaaaaaa'\n???</pre>",
+                    "answer": "<pre>True\nCzy myślałeś o\n<>>> \'a\' * 21 is \'aaaaaaaaaaaaaaaaaaaa\'? :)</pre>"
+                }
+            ]
+    },
 ]
