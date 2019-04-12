@@ -274,4 +274,29 @@
                 }
             ]
     },
+    {
+        "name": "Funkcyjny żargon",
+        "questions": [
+                {
+                    "clue": "Lazy evaluation",
+                    "answer": "call-by-need evaluation mechanism"
+                },
+                {
+                    "clue": "Semigroup",
+                    "answer": "An object that has a concat function that combines it with another object of the same type."
+                },
+                {
+                    "clue": "Algebraic data type",
+                    "answer": "A composite type made from putting other types together."
+                },
+                {
+                    "clue": "Currying",
+                    "answer": "The process of converting a function that takes multiple arguments into a function that takes them one at a time."
+                },
+                {
+                    "clue": "Partial Application",
+                    "answer": "Partial applying a function means creating a new function by pre-filling some of the arguments to the original function."
+                }
+            ]
+    },
 ]
