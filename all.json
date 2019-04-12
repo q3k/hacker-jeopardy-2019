@@ -123,5 +123,30 @@
                 "answer": "Gödel, Escher, Bach"
             }
         ]
-    }
+    },
+    {
+        "name": "Wzory matematyczne",
+        "questions": [
+                {
+                    "clue": "<img src=\"https://s3.eu-west-2.amazonaws.com/jeopardy-cebula/Screenshot_20190412_112359.png\">",
+                    "answer": "Pochodna"
+                },
+                {
+                    "clue": "<img src=\"https://s3.eu-west-2.amazonaws.com/jeopardy-cebula/Screenshot_20190412_112708.png\">",
+                    "answer": "Szczególna teoria względności"
+                },
+                {
+                    "clue": "<img src=\"https://s3.eu-west-2.amazonaws.com/jeopardy-cebula/Screenshot_20190412_112256.png\">",
+                    "answer": "Transformacja Fouriera"
+                },
+                {
+                    "clue": "<img src=\"https://s3.eu-west-2.amazonaws.com/jeopardy-cebula/Screenshot_20190412_112218.png\">",
+                    "answer": "Równanie Schrödingera"
+                },
+                {
+                    "clue": "<img src=\"https://s3.eu-west-2.amazonaws.com/jeopardy-cebula/Screenshot_20190412_112816.png\">",
+                    "answer": "Równania Maxwella"
+                }
+            ]
+}
 ]
