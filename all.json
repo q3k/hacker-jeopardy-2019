@@ -162,7 +162,7 @@
                 },
                 {
                     "clue": "<img src=\"https://s3.eu-west-2.amazonaws.com/jeopardy-cebula/Screenshot_20190412_121921.png\">",
-                    "answer": "Ruby (x-D)"
+                    "answer": "Ruby"
                 },
                 {
                     "clue": "<img src=\"https://s3.eu-west-2.amazonaws.com/jeopardy-cebula/COBOL 1.10.png\">",
@@ -211,16 +211,16 @@
                     "answer": "Mercurial"
                 },
                 {
-                    "clue": "<img src=\"https://s3.eu-west-2.amazonaws.com/jeopardy-cebula/veracity-scm.jpeg\">",
-                    "answer": "Veracity"
-                },
-                {
                     "clue": "<img src=\"https://s3.eu-west-2.amazonaws.com/jeopardy-cebula/1200px-Bazaar_logo_(software_product).svg.png\">",
                     "answer": "GNU Bazaar"
                 },
                 {
                     "clue": "<img src=\"https://s3.eu-west-2.amazonaws.com/jeopardy-cebula/Screenshot_20190412_124756.png\">",
                     "answer": "CVS"
+                },
+                {
+                    "clue": "<img src=\"https://q3k.org/u/0857b8f545f93241d8a0f3833464c680dad60c49c72bb88c8d873ade78742912.jpg\">",
+                    "answer": "Piper (Google)"
                 }
             ]
     },
@@ -228,12 +228,12 @@
         "name": "WTF Python (3)?!",
         "questions": [
                 {
-                    "clue": "<pre>\n>>> a = [0, 1]\n>>> a[0] = a\n>>> a</pre>",
-                    "answer": "<pre>[[...], 1]</pre>"
-                },
-                {
                     "clue": "<pre>>>>import this</pre>>",
                     "answer": "The Zen of Python"
+                },
+                {
+                    "clue": "<pre>\n>>> a = [0, 1]\n>>> a[0] = a\n>>> a</pre>",
+                    "answer": "<pre>[[...], 1]</pre>"
                 },
                 {
                     "clue": "<pre>>>>x, y = (0, 1) if True else None, None</pre>",
@@ -265,8 +265,8 @@
                     "answer": "Write Field to Virtual-Machine Control Structure"
                 },
                 {
-                    "clue": "CVTDQ2PD",
-                    "answer": "Convert Packed Doubleword Integers to Packed Double-Precision Floating-Point Values"
+                    "clue": "EIEIO",
+                    "answer": "Enforce In Order Execution of I/O (PowerPC)"
                 },
                 {
                     "clue": "inc inc dec dec shl shr shl shr ebx eax",
@@ -278,24 +278,24 @@
         "name": "Funkcyjny żargon",
         "questions": [
                 {
-                    "clue": "Lazy evaluation",
-                    "answer": "call-by-need evaluation mechanism"
+                    "clue": "Call-by-need evaluation mechanism",
+                    "answer": "Lazy evaluation"
                 },
                 {
-                    "clue": "Semigroup",
-                    "answer": "An object that has a concat function that combines it with another object of the same type."
+                    "clue": "An object that has a concat function that combines it with another object of the same type.",
+                    "answer": "Semigroup"
                 },
                 {
-                    "clue": "Algebraic data type",
-                    "answer": "A composite type made from putting other types together."
+                    "clue": "A composite type made from putting other types together.",
+                    "answer": "Algebraic data type"
                 },
                 {
-                    "clue": "Currying",
-                    "answer": "The process of converting a function that takes multiple arguments into a function that takes them one at a time."
+                    "clue": "The process of converting a function that takes multiple arguments into a function that takes them one at a time.",
+                    "answer": "Currying"
                 },
                 {
-                    "clue": "Partial Application",
-                    "answer": "Partial applying a function means creating a new function by pre-filling some of the arguments to the original function."
+                    "clue": "Partial applying a function means creating a new function by pre-filling some of the arguments to the original function.",
+                    "answer": "Partial Application"
                 }
             ]
     },
@@ -344,8 +344,8 @@
                     "answer": "factor"
                 },
                 {
-                    "clue": "Losowo zmienia kolejność tekstu na wejściu",
-                    "answer": "shuf"
+                    "clue": "Odwraca linie w pliku tekstowym",
+                    "answer": "tac"
                 }
             ]
     },
@@ -378,25 +378,200 @@
         "name": "Who's that Pokémon?!",
         "questions": [
                 {
-                    "clue": "Sudowoodo",
-                    "answer": "https://s3.eu-west-2.amazonaws.com/jeopardy-cebula/185Sudowoodo.png"
+                    "answer": "Sudowoodo",
+                    "clue": "<img src=\"https://s3.eu-west-2.amazonaws.com/jeopardy-cebula/185Sudowoodo.png\" />"
                 },
                 {
-                    "clue": "Celebi",
-                    "answer": "https://s3.eu-west-2.amazonaws.com/jeopardy-cebula/251Celebi.png"
+                    "answer": "Celebi",
+                    "clue": "<img src=\"https://s3.eu-west-2.amazonaws.com/jeopardy-cebula/251Celebi.png\" />"
                 },
                 {
-                    "clue": "Litten",
-                    "answer": "https://s3.eu-west-2.amazonaws.com/jeopardy-cebula/725Litten.png"
+                    "answer": "Litten",
+                    "clue": "<img src=\"https://s3.eu-west-2.amazonaws.com/jeopardy-cebula/725Litten.png\" />"
                 },
                 {
-                    "clue": "Metagross",
-                    "answer": "https://s3.eu-west-2.amazonaws.com/jeopardy-cebula/376Metagross.png"
+                    "answer": "Metagross",
+                    "clue": "<img src=\"https://s3.eu-west-2.amazonaws.com/jeopardy-cebula/376Metagross.png\" />"
                 },
                 {
-                    "clue": "Sygiliph",
-                    "answer": "https://s3.eu-west-2.amazonaws.com/jeopardy-cebula/561Sigilyph.png"
+                    "answer": "Sygiliph",
+                    "clue": "<img src=\"https://s3.eu-west-2.amazonaws.com/jeopardy-cebula/561Sigilyph.png\" />"
                 }
             ]
+    },
+    {
+        "name": "Porty IP TCP/UDP",
+        "questions": [
+                {
+                    "clue": "80",
+                    "answer": "HTTP"
+                },
+                {
+                    "clue": "23",
+                    "answer": "Telnet"
+                },
+                {
+                    "clue": "6667",
+                    "answer": "IRC"
+                },
+                {
+                    "clue": "194",
+                    "answer": "IRC (wg. IANA)"
+                },
+                {
+                    "clue": "1",
+                    "answer": "TCPMUX (RFC1078)"
+                }
+        ]
+    },
+    {
+        "name": "What's this shell?",
+        "questions": [
+                {
+                    "clue": "<pre>q3k@ennui $ type ls\n ls is aliased to `ls --color=tty'</pre>",
+                    "answer": "Bash"
+                },
+                {
+                    "clue": "<pre>7.System:> version SYS:Kickstart/console.device.kmod full</pre>",
+                    "answer": "AmigaOS"
+                },
+                {
+                    "clue": "<pre>LSR42# show run</pre>",
+                    "answer": "Cisco IOS"
+                },
+                {
+                    "clue": "<pre>C:/Home>Cd(\"C:/Kernel\");Dir;</pre>",
+                    "answer": "HolyC (TempleOS)"
+                },
+                {
+                    "clue": "<pre>< INI-22F >\nI'M xxxx AND WHO ARE YOU ? boss\n\nOSL-45Q      (xxxx MP8/15)</pre>",
+                    "answer": "CROOK-5 (Mera 400)"
+                }
+        ]
+    },
+    {
+        "name": "BSODy",
+        "questions": [
+                {
+                    "clue": "<img src=\"https://q3k.org/u/ef0d29156b62b0fde19db33bab8fdebb08d902e9b898c30eebdfb8d36a11bf15.png\" />",
+                    "answer": "Windows 95"
+                },
+                {
+                    "clue": "<img src=\"https://i.stack.imgur.com/4pAQY.jpg\" />",
+                    "answer": "Linux (Kernel Panic)"
+                },
+                {
+                    "clue": "<img src=\"https://q3k.org/u/2447bf8991b774ecfe44a30881b80abddced86843b1e66ccc6da6c0f2b0a2a5e.gif\" />",
+                    "answer": "AmigaOS"
+                },
+                {
+                    "clue": "<img src=\"https://q3k.org/u/816acce6d5f0818730139d8c47a2ece4f02072304ec27de26b859af849220589.png\" />",
+                    "answer": "Atari ST TOS"
+                },
+                {
+                    "clue": "<img src=\"https://q3k.org/u/3f1453bac8cb626b75163d8ae03e0b4ec27f9588e9f5708504a71cf33ee76842.jpg\" />",
+                    "answer": "OpenBSD"
+                }
+        ]
+    },
+    {
+        "name": "What's this hackerspace?",
+        "questions": [
+                {
+                    "clue": "<img src=\"https://q3k.org/u/4c5f2bf8fa58eeeacbd49814a231256c6c07429e2616e985da0566710f259407.png\" />",
+                    "answer": "Warszawski Hackerspace"
+                },
+                {
+                    "clue": "<img src=\"https://q3k.org/u/00b2cbc17b528ba8d751a1b7750b3f78ffb60a7359a1228fb16ccc04823e63c1.png\" />",
+                    "answer": "Hackerspace Wrocław"
+                },
+                {
+                    "clue": "<img src=\"https://q3k.org/u/901990f827943ddd7026d3c20ca02db2a40acf5fa9973be960e65d261d6b39ae.png\" />",
+                    "answer": "Noisebridge"
+                },
+                {
+                    "clue": "<img src=\"https://q3k.org/u/2749bde13f9420cdf0cc78120c6eec08f5ef71e5a36e7d8900282ae916c76017.jpg\" />",
+                    "answer": "London Hackspace"
+                },
+                {
+                    "clue": "<img src=\"https://q3k.org/u/a7173534768c9d3d00d5022e4a3b52284bd193ad0fea42dde8e1be2c89ba2d19.png\" />",
+                    "answer": "NYC Resistor"
+                }
+        ]
+    },
+    {
+        "name": "Retro Komputery",
+        "questions": [
+                {
+                    "clue": "<img src=\"https://q3k.org/u/f7b30a64a73b986cff65e5982a7112aca85b4a01d5563396fff013cb558e84f2.jpg\" />",
+                    "answer": "Commodore 64"
+                },
+                {
+                    "clue": "<img src=\"https://q3k.org/u/72d976ac867795c704739566c6a7c482feeb9613d61a7fb77a8bc7cb0a31e9a6.jpg\" />",
+                    "answer": "DEC/Digital PDP-11"
+                },
+                {
+                    "clue": "<img src=\"https://q3k.org/u/7eff8633c636bc1c0476e0b675b8ad6d94088b657c60fd1dda4cb0083ac0f9a2.jpg\" />",
+                    "answer": "VAX"
+                },
+                {
+                    "clue": "<img src=\"https://q3k.org/u/1abf35aab86a26a67c019b655268feb117c0e8435404489938853f9d90a67b3e.jpg\" />",
+                    "answer": "Maszyna Różnicowa Babbage'a"
+                },
+                {
+                    "clue": "<img src=\"https://q3k.org/u/f2985756e1d7854e0ca87941f274d5de1def0adc60795d7641cb9bd138cdf278.jpg\" />",
+                    "answer": "K202"
+                }
+        ]
+    },
+    {
+        "name": "Funkcyjne Funkcje",
+        "questions": [
+                {
+                    "clue": "(a -> b) -> [a] -> [b]",
+                    "answer": "map"
+                },
+                {
+                    "clue": "(a -> b -> a) -> a -> [b] -> a",
+                    "answer": "foldl"
+                },
+                {
+                    "clue": "(a -> b) -> T a -> T b",
+                    "answer": "fmap"
+                },
+                {
+                    "clue": "m a -> (a -> m b) -> m b",
+                    "answer": "monad"
+                },
+                {
+                    "clue": "(\\f-> (\\x -> f (x x)) (\\x-> f (x x)))",
+                    "answer": "Y combinator"
+                }
+        ]
+    },
+    {
+        "name": "What's this Cisco Symbol?",
+        "questions": [
+                {
+                    "clue": "<img src=\"https://q3k.org/u/1379a69dd5551e9724ba33a8bcfd29010056f2e0d7a6dbcc7b42ea5767d01a9a.jpg\" />",
+                    "answer": "Switch"
+                },
+                {
+                    "clue": "<img src=\"https://q3k.org/u/9f46de6e79fa320a40445c9a6bcdf64ac6af8fc066836843225d2fc1be6289b0.jpg\" />",
+                    "answer": "Router"
+                },
+                {
+                    "clue": "<img src=\"https://q3k.org/u/418d967d94d09b039fff654d761b12eeea208bca458c9b26d8c57746b62a2180.jpg\" />",
+                    "answer": "Bridge"
+                },
+                {
+                    "clue": "<img src=\"https://q3k.org/u/c36752c328af8ecb5094d8cdb1c61d2ccdb0900371e9789661a09e651849eb39.jpg\" />",
+                    "answer": "Hub"
+                },
+                {
+                    "clue": "<img src=\"https://q3k.org/u/2deb5d897afabd60ea856877a98354b009858c67817b3438a9665c1b122d1a06.jpg\" />",
+                    "answer": "ATM Switch"
+                }
+        ]
     }
 ]
